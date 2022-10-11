@@ -1,0 +1,9 @@
+/* important */
+
+.display-none {
+  display: none !important;
+}
+
+:focus {
+  outline: 0 !important;
+}
